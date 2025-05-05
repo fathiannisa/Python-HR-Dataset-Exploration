@@ -1,5 +1,3 @@
-# 👥 HR Dataset Exploration
-
 This project involves cleaning, analyzing, and visualizing a Human Resources dataset to uncover patterns and insights related to employee demographics, performance, engagement, and attrition. The goal is to answer specific business questions using **Pandas** for data manipulation and **Seaborn** for data visualization.
 
 ---
